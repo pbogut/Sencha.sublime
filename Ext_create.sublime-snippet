@@ -1,0 +1,11 @@
+<snippet>
+    <content>
+<![CDATA[
+Ext.create("${1:MyNamespace.}${2:className}", {${4:params}});
+]]>
+    </content>
+    <description>Ext.create</description>
+    <scope>source.js</scope>
+    <tabTrigger>create</tabTrigger>
+</snippet>
+
